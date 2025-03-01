@@ -1,0 +1,6 @@
+- Maybe each series can has its own page with seasons has sliders and episodes as small little boxes.
+
+
+
+Later
+- validations on inputs.
