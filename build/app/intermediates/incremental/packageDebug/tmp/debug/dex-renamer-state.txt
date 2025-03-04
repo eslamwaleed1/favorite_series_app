@@ -1,4 +1,4 @@
-#Wed Feb 26 22:06:30 EET 2025
+#Tue Mar 04 17:10:28 EET 2025
 base.0=E\:\\Software_Saga\\Flutter_Projects\\favorite_series\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=E\:\\Software_Saga\\Flutter_Projects\\favorite_series\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=E\:\\Software_Saga\\Flutter_Projects\\favorite_series\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
