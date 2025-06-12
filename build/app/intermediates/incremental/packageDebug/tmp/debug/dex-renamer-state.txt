@@ -1,13 +1,16 @@
-#Tue Mar 04 17:10:28 EET 2025
+#Wed May 14 00:17:58 EEST 2025
 base.0=E\:\\Software_Saga\\Flutter_Projects\\favorite_series\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=E\:\\Software_Saga\\Flutter_Projects\\favorite_series\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=E\:\\Software_Saga\\Flutter_Projects\\favorite_series\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
-base.3=E\:\\Software_Saga\\Flutter_Projects\\favorite_series\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
+base.1=E\:\\Software_Saga\\Flutter_Projects\\favorite_series\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
+base.2=E\:\\Software_Saga\\Flutter_Projects\\favorite_series\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.3=E\:\\Software_Saga\\Flutter_Projects\\favorite_series\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.4=E\:\\Software_Saga\\Flutter_Projects\\favorite_series\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
-path.2=1/classes.dex
-path.3=5/classes.dex
+path.2=0/classes.dex
+path.3=1/classes.dex
+path.4=5/classes.dex
 renamed.0=classes.dex
 renamed.1=classes2.dex
 renamed.2=classes3.dex
 renamed.3=classes4.dex
+renamed.4=classes5.dex

@@ -1,1 +1,0 @@
- E:\\Software_Saga\\Flutter_Projects\\favorite_series\\.dart_tool\\flutter_build\\88bf469e9b4028f66f91112c9ccd029a\\native_assets.yaml: 

@@ -1,0 +1,2 @@
+C:/LinkedProject/android/app/.cxx/Debug/c4x45452/x86/CMakeFiles/edit_cache.dir
+C:/LinkedProject/android/app/.cxx/Debug/c4x45452/x86/CMakeFiles/rebuild_cache.dir

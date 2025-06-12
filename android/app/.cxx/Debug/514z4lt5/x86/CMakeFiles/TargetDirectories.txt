@@ -1,0 +1,2 @@
+E:/Software_Saga/Flutter_Projects/favorite_series/android/app/.cxx/Debug/514z4lt5/x86/CMakeFiles/edit_cache.dir
+E:/Software_Saga/Flutter_Projects/favorite_series/android/app/.cxx/Debug/514z4lt5/x86/CMakeFiles/rebuild_cache.dir

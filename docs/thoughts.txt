@@ -1,3 +1,20 @@
+Open App
+	- No Series
+		- Home Empty
+
+
+	- N Series
+		- Home has the shows
+		- Home has a floating button to add
+		- Validate show hasn't been added before.
+
+
+
+
+
+
+
+
 - Maybe each series can has its own page with seasons has sliders and episodes as small little boxes.
 
 
